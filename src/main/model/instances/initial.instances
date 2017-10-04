@@ -1,0 +1,21 @@
+
+instance of VM {
+	name: vm1;
+	instance of cassandraNode {
+		name: Cassandra;
+	}
+} 
+
+instance of VM {
+	name: vm2;
+	instance of cassandraNode {
+		name: Cassandra;
+	}
+} 
+
+instance of VM {
+	name: vm3;
+	instance of cassandraNode {
+		name: Cassandra;
+	}
+} 

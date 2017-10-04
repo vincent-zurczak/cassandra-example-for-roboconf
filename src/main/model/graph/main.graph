@@ -1,0 +1,7 @@
+
+import cassandra-cluster/main.graph;
+
+VM {
+	installer: target;
+	children: cassandraNode;
+}
